@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<title>Example website</title>
+
+<head>
+
+Github Repository
+</head>
+<body>
+Trying this on my own.
+</body>
+</html>
