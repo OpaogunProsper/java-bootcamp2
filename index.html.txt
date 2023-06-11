@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
-<title>Example website</title>
-
 <head>
 
-Github Repository
+<title>Example website</title>
+
 </head>
+
+
 <body>
-Trying this on my own.
+<h1>Trying this on my own.</h1>
 </body>
+
 </html>
